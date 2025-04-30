@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(128, 128, 128, 0.267);
+}
+
+main{
+    border: 1px solid black;
+    width: 500px;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 100px auto;
+}
+
+textarea{
+    height: 25px;
+    width: 100%;
+    border: 15px;
+    font-size: 1.105rem;
+}
